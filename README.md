@@ -13,4 +13,4 @@ Welcome to my portfolio! This project showcases my skills, the projects I've bui
 
 ## 📫 How to Reach Me
 *   **LinkedIn**: [link-to-your-profile]
-*   **Email**: your-meti2985@gmail.com
+*   **Email**:-meti2985@gmail.com
