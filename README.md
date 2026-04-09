@@ -1,4 +1,4 @@
-# portfolio-2026
+# Portfolio-2026
 # My Professional Portfolio 🚀
 
 Welcome to my portfolio! This project showcases my skills, the projects I've built, and how to get in touch with me.
