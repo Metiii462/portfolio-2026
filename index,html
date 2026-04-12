@@ -22,12 +22,17 @@
         <p>I am a developer building projects and learning every day.</p>
     </section>
 
-    <section id="projects">
-        <h2>My Projects</h2>
-        <ul>
-            <li>Project 1 - Description coming soon!</li>
-        </ul>
-    </section>
+<section id="projects">
+    <h2>My Projects</h2>
+    <!-- New Project Card Starts Here -->
+    <div class="project-card">
+        <h3>Portfolio Website</h3>
+        <p>A personal portfolio built with HTML, CSS, and JavaScript. Features a custom dark mode toggle!</p>
+        <a href="https://github.com" target="_blank">View Code</a>
+    </div>
+    <!-- New Project Card Ends Here -->
+</section>
+
 
     <footer id="contact">
         <h2>Contact</h2>
